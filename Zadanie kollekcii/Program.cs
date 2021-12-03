@@ -37,7 +37,7 @@ namespace Zadanie_kollekcii
                     }
                     else
                     {
-                        stack.Push(i);
+                        stack.Push('-');
                     }
                 }
             }
